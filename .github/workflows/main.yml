@@ -3,7 +3,7 @@ name: Deploy ASP.NET CORE
 on:
   push:
     branches: 
-      - maaster
+      - main
 
 env:
   AZURE_WEBAPP_NAME: demoadd34
